@@ -1,0 +1,12 @@
+{
+  "name": "paytm-registration",
+  "version": "1.0.0",
+  "description": "Sample Paytm registration form with Node.js and Nginx",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
